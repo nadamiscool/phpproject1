@@ -9,11 +9,14 @@
 <body>
     <div class="container">
     		<div class="row">
+                    <h1>
+                        <a href="https://github.com/nadamiscool/phpproject1"> GitHub Repo</a>
+                    </h1>
     			<h3>PHP CRUD Grid</h3>
     		</div>
 			<div class="row">
-                           <a href="https://github.com/nadamiscool/phpproject1"> GitHub Repo</a>
 				<p>
+                                    
 					<a href="create.php" class="btn btn-success">Create</a>
 				</p>
 				
